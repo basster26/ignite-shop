@@ -38,6 +38,3 @@ yarn dev
 4242 4242 4242 4242
 ```
 uma data posterior a atual e qualquer número de CVV.
-
-<hr>
-Disponível também em https://ignite-shop.bzenky.dev/
